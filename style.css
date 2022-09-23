@@ -1,0 +1,31 @@
+h1{
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+h2{
+    font-size: 20px;
+    text-align: center;
+
+}
+
+
+.nav{
+align-items: center;
+
+}
+
+.link{
+
+    color: blue;
+
+}
+
+.list{
+    list-style:square;
+    list-style-position: inside;
+    mask-type: none;
+    text-align: center;
+
+}
